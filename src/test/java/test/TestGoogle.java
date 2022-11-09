@@ -18,8 +18,9 @@ import junit.framework.Assert;
 
 public class TestGoogle {
 
+
 	//VARIABLES
-	private WebDriver driver;
+	private WebDriver driver;   
 	private static final String TIPO_DRIVER = "webdriver.chrome.driver";
 	private static final String PATH_DRIVER = "./src/test/resources/webDriver/chromedriver.exe";
 	private String URL = "https://testpages.herokuapp.com/styled/index.html ";
@@ -40,9 +41,10 @@ public class TestGoogle {
 		System.setProperty(TIPO_DRIVER, PATH_DRIVER);
 		driver = new ChromeDriver(); //se abre el navegador
 		driver.get(URL); //navegar
-
-		 
-	};
+		 //VALIDAR TIEMPO
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
+	 
+	}
 	
 	//PRUEBA
 	@Test
@@ -58,12 +60,12 @@ public class TestGoogle {
 	   WebElement index= driver.findElement(By.xpath("/html/body/div/div[1]/a"));
 	   index.click();
 	   
-		 //VALIDAR TIEMPO
-	   driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-	   
+		
 	   //Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
 			   //.withTimeout(10, TimeUnit.SECONDS)
 			   //.pollingEvery(10, TimeUnit.SECONDS);
+	   
+	   
 	}
 	
 	

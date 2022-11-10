@@ -1,17 +1,17 @@
 # DEMOS entrevista tecnica.
 
 
-# *1) Descripcion del proyecto:
+# 1) Descripcion del proyecto:
 
 En los siguentes archivos se evidencia una prueba automatizada donde se realiza con 
 selenium webDriver, Eclipse, y Java.
 
 
-# *2) Instalacion de herramientas:
+# 2) Instalacion de herramientas:
 
 Para esta prueba vamos a necesitar las siguientes herramientas:
 
-# *- JDK de Java:
+# - JDK de Java:
   - Para instalarlo ingresamos al siguiente enlace => https://www.oracle.com/
   - Para poder descargar un producto necesitamos primero crear una cuenta e iniciar sesión.
   - Despues de iniciar sesión, nos dirigimos a la pestaña de
@@ -35,14 +35,14 @@ Para esta prueba vamos a necesitar las siguientes herramientas:
    
   - y se inicia la descarga automaticamente.
   
-  # *Ejecutar el SDK:
+  # Ejecutar el SDK:
   
   - Simplemente ejecuta el archivo descargado en el paso anterior, la instalación es muy similar a la de cualquier programa, simplemente damos en «Next» hasta que ya       inicia la instalación, al final te dirá que Java SE Development Kit ha sido instalado correctamente.
  
     ![image](https://user-images.githubusercontent.com/95291737/201208904-18d80e51-e528-4ce7-bdc9-3b7ff3a564be.png)
 
 
-  # *Instalacion de Eclipse 
+  # Instalacion de Eclipse 
   
   - ingresa al siguiente enlace: https://www.eclipse.org/downloads/ se te abrirá la siguiente pantalla, donde aparecerá la versión más reciente de eclipse con el botón     «Download».
   
@@ -52,7 +52,7 @@ Para esta prueba vamos a necesitar las siguientes herramientas:
    
      ![image](https://user-images.githubusercontent.com/95291737/201218837-33f1636c-67ee-4315-96c9-34a6cbcffa7f.png) 
      
-  # *Ejecutar Eclipse:
+  # Ejecutar Eclipse:
   
    - Ejecuta el archivo .exe que se descargó desde la página oficial de eclipse, se abrirá un menú de instalación con las opciones que tenemos para instalar como Java      EE, Java SE, eclipse para C++, entre otros, en este caso seleccionaremos la opción «Eclipse IDE for Java Developers»
    
@@ -77,4 +77,4 @@ Para esta prueba vamos a necesitar las siguientes herramientas:
 
 
 
-# 3) 
+

@@ -111,8 +111,7 @@ Para esta prueba vamos a necesitar las siguientes herramientas:
     
 # 4) Parte Final 
 
-
-    ![image](https://user-images.githubusercontent.com/95291737/201445220-ca413bba-108e-42ec-b2a8-97b6e4fcf028.png)
+   - ![image](https://user-images.githubusercontent.com/95291737/201445220-ca413bba-108e-42ec-b2a8-97b6e4fcf028.png)
 
     
     

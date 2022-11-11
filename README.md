@@ -91,7 +91,19 @@ Para esta prueba vamos a necesitar las siguientes herramientas:
    
    ![image](https://user-images.githubusercontent.com/95291737/201368084-0e9e8976-86ed-47cd-bca2-2a1a6e9b8169.png)
    
-   - Nos
+   - Nos dirijimos al link del repositorio y nos ubicamos en esta seccion, copiando el siguiente enlace:
+   
+   ![image](https://user-images.githubusercontent.com/95291737/201368836-164bd3ed-7586-46e2-96d7-df17ed59a5a0.png)
+   
+   - Volvemos a la ventana del GIT BASH copiando el siguiente comando
+   
+   ![image](https://user-images.githubusercontent.com/95291737/201369186-fc7e7d6d-cfe8-46ca-9263-8a9cdba33bbf.png)
+   
+   seguido del enlace que copiamos en el repositorio.
+   
+   
+
+
 
    
 

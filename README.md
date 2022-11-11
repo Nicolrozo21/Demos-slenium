@@ -71,9 +71,11 @@ Para esta prueba vamos a necesitar las siguientes herramientas:
    - Al ser primera vez que ejecutas Eclipse, te pedirá la ruta de tu workspace (carpeta donde quedaran los proyectos que crees) al tener la ruta seleccionada,         
      presionas clic en el botón «OK». 
 
+# 3) Ejecucion del proyecto
 
+   - Nos ubicamos en la carpeta que se crea por defecto de Eclipse: 
 
-
+   
 
 
 

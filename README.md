@@ -75,7 +75,9 @@ Para esta prueba vamos a necesitar las siguientes herramientas:
 
    - Nos ubicamos en la carpeta que se crea por defecto de Eclipse: 
 
+   ![image](https://user-images.githubusercontent.com/95291737/201361702-a0299fe8-73fa-4057-9052-32d8fac095a8.png) 
    
+   ![image](https://user-images.githubusercontent.com/95291737/201361854-69c44a7a-71ea-4987-a8eb-523fa2bdd9f6.png)
 
 
 

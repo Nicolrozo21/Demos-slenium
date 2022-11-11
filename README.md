@@ -100,7 +100,27 @@ Para esta prueba vamos a necesitar las siguientes herramientas:
    ![image](https://user-images.githubusercontent.com/95291737/201369186-fc7e7d6d-cfe8-46ca-9263-8a9cdba33bbf.png)
    
    seguido del enlace que copiamos en el repositorio.
+  
+   ![image](https://user-images.githubusercontent.com/95291737/201371344-7ecd8299-7f10-4759-a7a2-75acf05ddced.png)
    
+   - Nos ubicamos de nuevo en la ventana de la herramienta de eclipse y abrimos la carpeta donde clonamos nuestro archivo:
+   
+   ![image](https://user-images.githubusercontent.com/95291737/201384116-d90e7e9a-fa36-4303-9040-9ff187e928c6.png)
+   
+   ![image](https://user-images.githubusercontent.com/95291737/201384489-7b59d265-cd84-49eb-a122-2d5036b4c6a2.png)
+   
+   - Buscamos la carpeta que anteriormente explicamos en este caso llamada 
+   
+   ![image](https://user-images.githubusercontent.com/95291737/201384782-b571458d-e70f-4f7f-a91c-3982a9a12880.png)
+   
+   - Al ingresar seleccionamos la carpeta que habiamos creado 
+   
+
+
+   
+   
+
+
    
 
 

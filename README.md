@@ -86,6 +86,14 @@ Para esta prueba vamos a necesitar las siguientes herramientas:
    - Entramos a la carpeta que recien creada, y seleccionamos la opcion de GIT BASH
    
    ![image](https://user-images.githubusercontent.com/95291737/201365447-a2b0c190-9002-4512-ac99-b7ad737ad738.png)
+   
+   - Nos tiene que abrir la siguiente ventana:
+   
+   ![image](https://user-images.githubusercontent.com/95291737/201368084-0e9e8976-86ed-47cd-bca2-2a1a6e9b8169.png)
+   
+   - Nos
+
+   
 
    
    

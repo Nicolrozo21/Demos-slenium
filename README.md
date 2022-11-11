@@ -73,48 +73,25 @@ Para esta prueba vamos a necesitar las siguientes herramientas:
 
 # 3) Ejecucion del proyecto
 
-   - Nos ubicamos en la carpeta que se crea por defecto de Eclipse: 
+   - Abrimos la herramienta de eclipse y nos ubicamos en la siguiente pestaña: 
+   
+     ![image](https://user-images.githubusercontent.com/95291737/201441034-2e1d00c0-9c50-4c93-a7dc-a47f520e38e5.png)
+     
+     y damos click en esta pestaña:
+     
+     ![image](https://user-images.githubusercontent.com/95291737/201441192-e1f40f1e-6674-4259-a2b6-efa1ebbb6420.png)
+     
+     nos aparecera la siguiente pestaña y damos click en el siguiente simbolo:
+     
+     ![image](https://user-images.githubusercontent.com/95291737/201441818-a239957f-a08f-4619-8d78-f31a375a2d4b.png)
+     
+     ![image](https://user-images.githubusercontent.com/95291737/201442449-7806d0ec-bebd-48b8-83e0-ffc2f49ded48.png)
 
-   ![image](https://user-images.githubusercontent.com/95291737/201361702-a0299fe8-73fa-4057-9052-32d8fac095a8.png) 
-   
-   ![image](https://user-images.githubusercontent.com/95291737/201361854-69c44a7a-71ea-4987-a8eb-523fa2bdd9f6.png)
 
-   - Al abrir la carpeta mencionada anteriormente, creamos una nueva carpeta:
-   
-   ![image](https://user-images.githubusercontent.com/95291737/201363723-10a81255-4c35-44ac-88da-e8597abd161e.png)
-  
-   - Entramos a la carpeta que recien creada, y seleccionamos la opcion de GIT BASH
-   
-   ![image](https://user-images.githubusercontent.com/95291737/201365447-a2b0c190-9002-4512-ac99-b7ad737ad738.png)
-   
-   - Nos tiene que abrir la siguiente ventana:
-   
-   ![image](https://user-images.githubusercontent.com/95291737/201368084-0e9e8976-86ed-47cd-bca2-2a1a6e9b8169.png)
-   
-   - Nos dirijimos al link del repositorio y nos ubicamos en esta seccion, copiando el siguiente enlace:
-   
-   ![image](https://user-images.githubusercontent.com/95291737/201368836-164bd3ed-7586-46e2-96d7-df17ed59a5a0.png)
-   
-   - Volvemos a la ventana del GIT BASH copiando el siguiente comando
-   
-   ![image](https://user-images.githubusercontent.com/95291737/201369186-fc7e7d6d-cfe8-46ca-9263-8a9cdba33bbf.png)
-   
-   seguido del enlace que copiamos en el repositorio.
-  
-   ![image](https://user-images.githubusercontent.com/95291737/201371344-7ecd8299-7f10-4759-a7a2-75acf05ddced.png)
-   
-   - Nos ubicamos de nuevo en la ventana de la herramienta de eclipse y abrimos la carpeta donde clonamos nuestro archivo:
-   
-   ![image](https://user-images.githubusercontent.com/95291737/201384116-d90e7e9a-fa36-4303-9040-9ff187e928c6.png)
-   
-   ![image](https://user-images.githubusercontent.com/95291737/201384489-7b59d265-cd84-49eb-a122-2d5036b4c6a2.png)
-   
-   - Buscamos la carpeta que anteriormente explicamos en este caso llamada 
-   
-   ![image](https://user-images.githubusercontent.com/95291737/201384782-b571458d-e70f-4f7f-a91c-3982a9a12880.png)
-   
-   - Al ingresar seleccionamos la carpeta que habiamos creado 
-   
+     
+     
+
+
 
 
    
